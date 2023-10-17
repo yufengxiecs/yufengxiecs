@@ -20,5 +20,3 @@ I am currently a master student of the School of Computer Science and Technology
 - 🔭 I'm currently working on **Intelligent Software and System Institute(ISSI), XDU**
 - 🌱 I’m currently learning **Reinforcement Learning(RL)** and **Adaptive System**
 
-![Xie-Yufeng's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Xie-Yufeng&hide=prs,contribs&include_all_commits=true&show_icons=true&theme=react)
-
