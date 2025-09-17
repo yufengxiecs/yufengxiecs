@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a master student of the School of Computer Science and Technology, Xidian University(XDU). Before joining the XDU, I received my bachelor degree of Computer Science and Technology from Xi’an Shiyou University(XSYU).
-
-- 🔭 I'm currently working on **Intelligent Software and System Institute(ISSI), XDU**
-- 🌱 I’m currently learning **Reinforcement Learning(RL)** and **Adaptive System**
-
+I am currently a Ph.D. student of the College of Intelligence Science and Technology, National University of Defense Technology (NUDT). My research interests include Reinforcement Learning and its applications.
