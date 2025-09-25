@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am currently a Ph.D. student of the College of Intelligence Science and Technology, National University of Defense Technology (NUDT). My research interests include Reinforcement Learning and its applications. Recently, I am interested in
 
-- 🤖 Embodied AI
+- 🤖 Robot Learning
 - 🌍 World Model Learning
 
 Please feel free to contact me via 📮 yufengxie.cs@gmail.com, yufeng.xie@nudt.edu.cn.
